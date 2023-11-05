@@ -2,15 +2,13 @@
 <h3 align="center">Data Scientist Loading...</h3>
 
 
-- 🌱 I’m currently learning **Python, power bi**
+- 🌱 I’m currently learning **Python for data science**
 
 - 💬 Ask me about **Data realted thing**
 
 - 📫 How to reach me **abhishek9910k@gmail.com**
 
 - 📄 Know about my experiences [fresher](fresher)
-
-<p align="left"> <a href="https://twitter.com/abhishek208" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek208?logo=twitter&style=for-the-badge" alt="abhishek208" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
