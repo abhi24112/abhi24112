@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abhishek9910k@gmail.com**
 
-- 📄 Know about my experiences [fresher](fresher)
+- 📄 Know about my experiences : 3rd Year Student in B.tech
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
