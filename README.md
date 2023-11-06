@@ -1,3 +1,5 @@
+![image](https://github.com/abhi24112/abhi24112/assets/91802093/03c47337-fe2b-4aff-abd2-28cb3bd901ff)
+
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Data Scientist Loading...</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
