@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Data Scientist Loading...</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 - 🌱 I’m currently learning **Python for data science**
 
-- 💬 Ask me about **Data realted thing**
+- 💬 Ask me about **Data related thing**
 
 - 📫 How to reach me **abhishek9910k@gmail.com**
 
