@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Data Scientist Loading...</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"> -->
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2J3MWZncGFocGo0MTVmMTdrMmh3dzhzdzJ3Mjc1NTI1ZjF2bWFscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGE2ZzN6cXdpN3Vpcjdtd2VrODhjcHlkbTQyZ3Y5b3p6MHAycW80NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTtoU4hkyq8W48re2f/giphy.webp">
 
 - 🌱 I’m currently learning **Python for data science**
 
