@@ -10,9 +10,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/Abhi_Prajapati2411/" target="_blank">
+  <!-- <a href="https://leetcode.com/u/Abhi_Prajapati2411/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+  </a> -->
   &nbsp;
   <a href="https://github.com/abhi24112" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
