@@ -20,4 +20,4 @@ My name is Abhishek Prajapati and I'm a Data Scientist/MLOps engineer. I'm from 
 
 [1]: 
 [2]: 
-[3]: www.linkedin.com/in/abhipraj
+[3]: https://www.linkedin.com/in/abhipraj
